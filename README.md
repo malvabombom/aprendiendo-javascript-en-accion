@@ -8,6 +8,17 @@
 - [ ] Ciclos y estructuras de control
 - [ ] Funciones
 - [ ] Ejercicios
+- [ ] 
+### Modern JS - EcmaScript
+
+- [ ] Default Params.
+- [ ] Var VS Let VS Cons.
+- [ ] Deconstruccion de Objetos
+- [ ] Arrow Functions
+- [ ] Promesas
+- [ ] Clases y Modulos
+- [ ] Generadores
+- [ ] Mixins
 
 ### JS en el Navegador (Vanilla)
 
@@ -20,9 +31,13 @@
 - [ ] Como hacer un Routing con JS.
 - [ ] Practica : Lista de Pedidos con JS.
 
-### Modern JS - EcmaScript
-
-- [ ] 
+### Asincronia con JS
+- [ ] Sincronia vs Asincronia en JS
+- [ ] Callbacks
+- [ ] Arrow functions
+- [ ] Async Await
+- [ ] Labs : 1
+- [ ] Labs : 2
 
 ### Modulos y WebPack
 
@@ -36,9 +51,17 @@
 
 ### Algoritmos con JS
 
-### Asincronia con JS
+- [ ] ¿Porque son importantes los Algoritmos en js?
+- [ ] ¿Como analizamos un algoritmos?
+- [ ] Algunos tipos de algoritmos.
+- [ ] Practica: Resolviendo algunos problemas.
+- [ ] Algoritmos Recursivos.
+- [ ] Algortimos de Busqueda.
+- [ ] Algoritmos de Ordenamiento.
+
 
 ### Programacion Orientada a Objetos con JS
+
 
 ### Fundamentos de NPM 
 
