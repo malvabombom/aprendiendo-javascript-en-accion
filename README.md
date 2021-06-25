@@ -27,6 +27,10 @@
 ### Modulos y WebPack
 
 - [ ] Node, NPM y WEBPACK.
+- [ ] Creando un proyecto en Node Desde Cero.
+- [ ] Webpack, Que resuelve y como usarlo.
+- [ ] HMTL Loader.
+- [ ] Webpack Server.
 
 ### Algoritmos con JS
 
