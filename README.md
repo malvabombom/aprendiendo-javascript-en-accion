@@ -8,7 +8,7 @@
 - [ ] Ciclos y estructuras de control
 - [ ] Funciones
 - [ ] Ejercicios
-- [ ] 
+
 ### Modern JS - EcmaScript
 
 - [ ] Default Params.
