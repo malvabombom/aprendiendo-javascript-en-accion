@@ -22,6 +22,11 @@
 
 ### Modern JS - EcmaScript
 
+- [ ] 
+
+### Modulos y WebPack
+
+- [ ] Node, NPM y WEBPACK.
 
 ### Algoritmos con JS
 
