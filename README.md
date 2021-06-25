@@ -63,8 +63,10 @@
 ### Programacion Orientada a Objetos con JS
 
 
-### Fundamentos de NPM 
+### Fundamentos de Vue.js
 
-### Fundamentos de WebPack
+
+### Fundamentos de React.js
+
 
 ### Processing - Maths and Phisics with js
