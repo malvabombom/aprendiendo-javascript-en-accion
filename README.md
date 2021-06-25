@@ -31,6 +31,8 @@
 - [ ] Webpack, Que resuelve y como usarlo.
 - [ ] HMTL Loader.
 - [ ] Webpack Server.
+- [ ] Llevando WebPack a la vida real.
+- [ ] Webpack Production Mode.
 
 ### Algoritmos con JS
 
