@@ -1,4 +1,4 @@
-# Javascript hasta las muelas
+# Javascript hasta las muelas 🦷🦷🦷
 
 ### Fundamentos de programacion con js
 
