@@ -20,7 +20,7 @@
 - [ ] Generadores
 - [ ] Mixins
 
-### JS en el Navegador (Vanilla)
+# Manipular elementos de Chrome (Navegador) con Javascript (Vanilla)
 
 - [ ] Que es el Dom.
 - [ ] Chrome developer Toolkit.
