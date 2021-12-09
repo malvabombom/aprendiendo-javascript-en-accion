@@ -62,11 +62,13 @@
 
 ### Programacion Orientada a Objetos con JS
 
+- [ ] ¿Que es la Programacion Orientada a Objetos?
+- [ ] Objetos en Javascript
+- [ ] Clases y Metodos
+- [ ] Constructores
+- [ ] Herencia
+- [ ] Poliformismo
 
-### Fundamentos de Vue.js
-
-
-### Fundamentos de React.js
 
 ### Fundamentos de Node.js
 - [ ] ¿Como Funciona Node?
@@ -83,4 +85,4 @@
 - [ ] Guards y Secrets.
 - [ ] Autentificacion y Autorizacion.
 
-### Processing - Maths and Phisics with js
+### Processing js
