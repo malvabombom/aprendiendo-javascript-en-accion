@@ -84,5 +84,3 @@
 - [ ] Consumiendo una base de datos.
 - [ ] Guards y Secrets.
 - [ ] Autentificacion y Autorizacion.
-
-### Processing js
